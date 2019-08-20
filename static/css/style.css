@@ -30,6 +30,7 @@ nav {
 	position: sticky;
 	top: 0px;
 	z-index: 100;
+
 }
 nav i {
 	padding: 0 15px;
@@ -278,10 +279,12 @@ small { display: none;}
 	color: #666 !important;
 }
 .teal-text {
-	color: #008073 !important
+	color: #CD7F32 !important;
+	font-weight: bold;
+	line-height: normal;
 }
 .teal {
-	background-color: #008073 !important
+	background-color:  #CD7F32 !important
 }
 @media (min-width: 1200px) {
 	#experience .container {
