@@ -25,6 +25,12 @@ nav {
 	box-shadow: none;
 	height: 0;
 }
+.sticky-content{
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0px;
+	z-index: 100;
+}
 nav i {
 	padding: 0 15px;
 	position: relative;
@@ -102,7 +108,6 @@ h3 {
 }
 #intro.section {
 	background: url(../../static/img/eugene.jpg) no-repeat top center/cover;
-
 	position: relative;
 }
 #intro.section .container {
