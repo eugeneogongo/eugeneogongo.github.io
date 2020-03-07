@@ -4,6 +4,7 @@
     <list default="true" id="81c72550-8302-43cd-b1cb-2386a36790a1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,31 +17,9 @@
       <executable />
     </execution>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Andrew Borstein</find>
-      <find>awards</find>
-      <find>Full Stack Developer</find>
-      <find>andrew</find>
-      <find>fa</find>
-      <find>square</find>
-      <find>full-</find>
-      <find>teal</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>Eugene Ogongo</replace>
-      <replace>Software Developer</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="366" />
-    <option name="y" value="62" />
-    <option name="width" value="1346" />
-    <option name="height" value="728" />
   </component>
   <component name="ProjectId" id="1RHFSmpLY0wKrEo2yt7Qt0wT1Bt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -82,7 +61,9 @@
       <option name="presentableId" value="Default" />
       <updated>1566280576241</updated>
       <workItem from="1566280577584" duration="17163000" />
-      <workItem from="1569316178746" duration="584000" />
+      <workItem from="1569316178746" duration="832000" />
+      <workItem from="1569494600858" duration="66000" />
+      <workItem from="1583565913599" duration="5693000" />
     </task>
     <servers />
   </component>
