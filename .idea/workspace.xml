@@ -4,7 +4,6 @@
     <list default="true" id="81c72550-8302-43cd-b1cb-2386a36790a1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +35,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -65,7 +65,38 @@
       <workItem from="1569494600858" duration="66000" />
       <workItem from="1583565913599" duration="6034000" />
       <workItem from="1583573189348" duration="629000" />
+      <workItem from="1587642141792" duration="3243000" />
+      <workItem from="1591523371596" duration="1536000" />
     </task>
+    <task id="LOCAL-00001" summary="Fix: Fix title alignment">
+      <created>1587643220284</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587643220284</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update tagline">
+      <created>1587643394924</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587643394924</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update tagline">
+      <created>1587645245972</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587645245972</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Reordered contact details">
+      <created>1587645433203</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587645433203</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,14 +115,33 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Fix: Fix title alignment" />
+    <MESSAGE value="Update tagline" />
+    <MESSAGE value="Reordered contact details" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reordered contact details" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="532" y="74" key="RollbackChangesDialog" timestamp="1583573370649">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1587645430498">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1587645430498" />
+    <state x="532" y="78" key="RollbackChangesDialog" timestamp="1587643176306">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="532" y="74" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583573370649" />
+    <state x="532" y="78" key="RollbackChangesDialog/0.0.1366.768@0.0.1366.768" timestamp="1587643176306" />
     <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1583573190024">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583573190024" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1591523884213">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1591523884213" />
   </component>
 </project>
